@@ -1,6 +1,6 @@
 print('Hello World!!!')
 
-def sub(a,b):
-    return a - b
-
-print(sub(5,6))
+def mul(a,b):
+    return a*b
+print("HII")
+print(mul(4,5))
